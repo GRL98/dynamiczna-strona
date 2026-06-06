@@ -16,4 +16,4 @@ Wykonane etapy
 Status
 Projekt ukończony i scalony do main.
 
-Szymon Graczyk 36788 i Marcel Dominikowski 60125
+
