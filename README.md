@@ -15,3 +15,5 @@ Wykonane etapy
 - [x] Scalony PR finalny
 Status
 Projekt ukończony i scalony do main.
+
+Szymon Graczyk 36788 i Marcel Dominikowski 60125
